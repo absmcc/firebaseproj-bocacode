@@ -14,3 +14,5 @@ app.post('/celebs', addNewCeleb)
 app.listen(PORT, () => {
     console.log(`Listening on http://localhost:${PORT}`)
 })
+
+
